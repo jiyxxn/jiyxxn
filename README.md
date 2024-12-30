@@ -5,33 +5,29 @@
 **그래도 어떡해.. 해야지**
 </div>
 <br>
+<br>
 <div align=center>
-
 <a href="https://github.com/jiyxxn"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=jiyxxn&count_private=true&show_icons=true&theme=dracula&icon_color=ff6e96&include_all_commits=true" alt="jinew's github stats" /></a>
 <a href="https://github.com/jiyxxn"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyxxn&theme=dracula&layout=compact" /></a>
-
 </div>
 <br>
 <br>
 <div align=center>
 
-  ## ⚙ Languages and Tools
-  
+## ⚙ Languages and Tools
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <br>
-
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/a/a7/Visual_Studio_Code_1.35_icon.svg&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white" />
-
-
-
-
-
 </div>
+
+<br>
+<br>
