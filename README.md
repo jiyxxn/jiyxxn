@@ -7,8 +7,8 @@
 <br>
 <div align=center>
 
-<a href="https://github.com/jiyxxn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jiyxxn&count_private=true&show_icons=true&theme=dracula&icon_color=ff6e96&include_all_commits=true" alt="jinew's github stats" /></a>
-<a href="https://github.com/jiyxxn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyxxn&theme=dracula&layout=compact" /></a>
+<a href="https://github.com/jiyxxn"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=jiyxxn&count_private=true&show_icons=true&theme=dracula&icon_color=ff6e96&include_all_commits=true" alt="jinew's github stats" /></a>
+<a href="https://github.com/jiyxxn"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyxxn&theme=dracula&layout=compact" /></a>
 
 </div>
 <br>
