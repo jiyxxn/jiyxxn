@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align=center>
 
-<!--
-**jiyxxn/jiyxxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐸 jiyxxn 🐸 <br><br> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyxxn%2Fhit-counter&count_bg=%23333333&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com) [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jiyunk)](https://velog.io/@jiyunk) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyunek37@gmail.com)](mailto:jiyunek37@gmail.com) 
+<img src="https://github.com/user-attachments/assets/5b16d4a5-0ed4-468c-a156-6afd1354942a" height="240px"> <br> <br>
+**그래도 어떡해.. 해야지**
+</div>
+<br>
+<div align=center>
 
-Here are some ideas to get you started:
+<a href="https://github.com/jiyxxn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jiyxxn&count_private=true&show_icons=true&theme=dracula&icon_color=ff6e96&include_all_commits=true" alt="jinew's github stats" /></a>
+<a href="https://github.com/jiyxxn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyxxn&theme=dracula&layout=compact" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<br>
+<br>
+<div align=center>
+
+  ## ⚙ Languages and Tools
+  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/a/a7/Visual_Studio_Code_1.35_icon.svg&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white" />
+
+
+
+
+
+</div>
