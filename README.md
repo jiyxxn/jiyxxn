@@ -2,7 +2,7 @@
 
 ## 🐸 jiyxxn 🐸 <br><br> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyxxn%2Fhit-counter&count_bg=%23333333&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com) [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jiyunk)](https://velog.io/@jiyunk) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyunek37@gmail.com)](mailto:jiyunek37@gmail.com) 
 <img src="https://github.com/user-attachments/assets/5b16d4a5-0ed4-468c-a156-6afd1354942a" height="240px"> <br> <br>
-**ュ㉣łı도 øł떡ぁĦ.. ぁĦ○Fズl**
+**ュ㉣łı도 øł떡ぁĦ.. ぁĦ○Fズl.. 💦**
 </div>
 <br>
 <br>
