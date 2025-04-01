@@ -1,6 +1,6 @@
 <div align=center>
 
-## 🐸 𝐣𝐢𝐲𝐱𝐱𝐧 🐸 <br><br> [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jiyunk)](https://velog.io/@jiyunk) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyunek37@gmail.com)](mailto:jiyunek37@gmail.com) 
+## 🐸 𝐣𝐢𝐲𝐱𝐱𝐧 🐸 <br><br> [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jiyunk)](https://velog.io/@jiyunk) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyxxn.fe@gmail.com)](mailto:jiyxxn.fe@gmail.com) 
 <img src="https://github.com/user-attachments/assets/5b16d4a5-0ed4-468c-a156-6afd1354942a" height="240px"> <br> <br>
 **ュ㉣łı도 øł떡ぁĦ.. ぁĦ○Fズl.. 💦**
 </div>
