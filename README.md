@@ -67,13 +67,8 @@
 
 ## 💌 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
 <div>
-    <a href="https://velog.io/@jiyunk/">
-      <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-    </a>
-    <a href="mailto:jiyxxn.fe@gmail.com">
-    <img
-      src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+    <a href="https://velog.io/@jiyunk/" style="text-decoration: none"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" /></a>
+    <a href="mailto:jiyxxn.fe@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 </div>
